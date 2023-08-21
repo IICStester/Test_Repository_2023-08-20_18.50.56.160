@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "6Ut2jjkYARUemqeiJxcjQh",
-    "name" : "Versioned Mapping - Edit",
+    "id" : "5fsvDyMqqrWfMinAjcNxyn",
+    "name" : "Versioned Mapping - Move",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,20 +9,20 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010002170000000002L1"
+        "repoHandle" : "010002170000000002LF"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Mapping for testing Edit changes. ",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-08-21T01:56:17.196Z",
+  "updateTime" : "2023-08-21T01:56:17.195Z",
   "objectRefs" : [ ]
 }
